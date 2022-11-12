@@ -1,0 +1,35 @@
+A.I = Artifical Intelligence
+
+A.I includes:
+    Machine Learning
+        - Taher than giving the program the hard coded rules, Machine learning takes in data to figure out the rules 
+    Nerual Networks
+        - It is a form a machine learning that uses a layered representation of data
+        - Deep Learning, these have multiple layers, ( input, more layers, output layer)
+        - Multi stage information 
+        - Not modeled after your brain, there is a biological inspiration but not based off your brain.
+    data    
+        - This is the most important part of AI and Machine learning
+        - features and labels
+        - Features are our input layers that we need to gice the model
+        - Labels are the outputs, what er are trying to predict
+
+    Different types of machine learning:
+        -Unsupervised learning:
+            -when we only have features, no labels at all
+            -the goal is to have a model that comes up with labels
+        -Supervised Learning:
+            -Learning that takes in Features and these features corseponds to labels
+            -It is called Supervised because it takes in features and based on rules that it already knows and makes a perdiction
+            -If the model is not quite that accurate, then tweaks are made to become more accurate
+            -Most comman and most utilized
+            -Has an advantage when you have a ton of data to learn from
+        -Reinforcement learning:
+            -When you dont have any data
+            -You have an agent within an enviroment and a reward
+            -The reward is what the agent gets the action correct.  As the agent "moves" closer to the objective in the enviorment then the agent get "positve rewards" when the agent "moves" further away from the goal the agent gets "negative" rewards.
+            -The next time the agent is put into the enviorment, it should be abel to "move" directly to the goal
+            -The agent just randomly explore the enviorment until it begins to maximize the reward
+
+
+    
